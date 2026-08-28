@@ -1,0 +1,3 @@
+tokable <- function(D,subtitle,escape=FALSE,fontsize=8) {
+  tokable<-kable(D,digits = Inf,format="latex",booktabs=TRUE,longtable=FALSE,escape = escape,linesep="") %>% row_spec(0,bold=TRUE) %>% column_spec(1,bold=TRUE)  %>% footnote(general=paste("\\\\\\centering",subtitle,sep=" "),general_title = "", threeparttable = TRUE,escape = escape) %>% kable_styling(latex_options = c("striped","repeat_header"),full_width = FALSE,font_size = fontsize) %>% kable_paper()  
+}

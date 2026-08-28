@@ -1,0 +1,1 @@
+The identified sector IDs within clusters of destination coefficient NDA$_1$: C17_18, C31T33, F, H49, H50, H51, H52, I, J58T60, J61, J62_63, K, O, P, Q, R, S, T; NDA$_2$: A01_02, A03, B07_08, C10T12, C19, C20, C21, C22, C24, C25, C26, C27, C28, C29, D; NDA$_3$: B05_06, B09, C13T15, C16, C23, C30, E, G, H53, L, M, N

@@ -1,0 +1,1 @@
+The identified sector IDs within clusters of distance coefficient NDA$_1$: A03, B05_06, C16, C20, C22, C23, C24, C27, C30, E, F, G, H51, H52, J61, K, M, N, O, S; NDA$_2$: C31T33, D, H49, H50, H53, I, J58T60, J62_63, L, P, Q, R, T; NDA$_3$: A01_02, B07_08, B09, C10T12, C13T15, C17_18, C19, C21, C25, C26, C28, C29

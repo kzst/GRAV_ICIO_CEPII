@@ -1,0 +1,1 @@
+The identified sector IDs within clusters of origin coefficient NDA$_1$: C30, C31T33, H51, H52, H53, I, J58T60, J61, J62_63, K, L, M, N, P, Q, R, S; NDA$_2$: A01_02, A03, B05_06, B09, C10T12, C13T15, C16, C17_18, C19, C20, C22, C23, C24, C25, C27, C28; NDA$_3$: B07_08, C21, C26, C29, D, E, F, G, H49, H50, O, T
